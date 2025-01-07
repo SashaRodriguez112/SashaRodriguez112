@@ -4,6 +4,6 @@
 - 📫 How to reach me: my website is 3d-gadgetz.nl so you can mail me there in the about section
 - 😄 Pronouns: he/ him
 - ⚡ Fun fact: I like to code
-- I would like advise on my website and maybe some help
+- 😮 Feel free to e-mail me your feedback!
   
   <website><b>3d-gadgetz.nl</b></website>
