@@ -6,4 +6,4 @@
 - ⚡ Fun fact: I like to code
 - 😮 Feel free to e-mail me your feedback!
   
-  <website><b>3d-gadgetz.nl</b></website>
+  [Visit 3D-Gadgetz](http://3d-gadgetz.nl)
