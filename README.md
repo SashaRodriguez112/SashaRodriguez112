@@ -6,4 +6,5 @@
 - ⚡ Fun fact: I like to code
 - 😮 Feel free to e-mail me your feedback!
   
+  [This is my FUN website, Predict](http://predict.3d-gadgetz.nl)
   [This is my website, 3d-gadgetz](http://3d-gadgetz.nl)
