@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @SashaRodriguez112
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to code properly
-- 📫 How to reach me: my website is 3d-gadgetz.nl so you can mail me there in the about section
+- 📫 How to reach me: not bro why would you
 - 😄 Pronouns: he/ him
 - ⚡ Fun fact: I like to code
 - 😮 Feel free to e-mail me your feedback!
   
   [This is my FUN website, Predict](http://predict.3d-gadgetz.nl)
-  [This is my MAIN/BORING website, 3d-gadgetz](http://3d-gadgetz.nl)
